@@ -4,6 +4,6 @@ Oxidized cholesterol parameters, simulation input files, and the initial and fin
 
 This work is published as:
 
-REFERENCE
+https://doi.org/10.1021/acschemneuro.1c00395
 
 All material is provided under an MIT license please cite the above references when using this work
